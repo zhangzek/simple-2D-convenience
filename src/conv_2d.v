@@ -5,7 +5,7 @@
 // 
 // Create Date: 2019/08/22 15:01:16
 // Design Name: 
-// Module Name: Synchronize FIFO
+// Module Name: 2d_conv
 // Project Name:  
 // Target Devices: 
 // Tool Versions: 
